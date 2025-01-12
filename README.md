@@ -1,2 +1,12 @@
 # helloworld
 用于练习github操作流
+#include"bits/stdc++.h"
+using namespace std;
+int main()
+{
+  ios::sync_with_stdio(false);
+  cin.tie(0);
+  cout.tie(0);
+  cout<<"Hello World"<<endl;
+  return 0;
+}
